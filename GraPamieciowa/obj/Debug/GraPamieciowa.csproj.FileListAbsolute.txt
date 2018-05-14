@@ -1,0 +1,9 @@
+c:\users\maciek\documents\visual studio 2015\Projects\GraPamieciowa\GraPamieciowa\bin\Debug\GraPamieciowa.exe.config
+c:\users\maciek\documents\visual studio 2015\Projects\GraPamieciowa\GraPamieciowa\bin\Debug\GraPamieciowa.exe
+c:\users\maciek\documents\visual studio 2015\Projects\GraPamieciowa\GraPamieciowa\bin\Debug\GraPamieciowa.pdb
+c:\users\maciek\documents\visual studio 2015\Projects\GraPamieciowa\GraPamieciowa\obj\Debug\GraPamieciowa.csprojResolveAssemblyReference.cache
+c:\users\maciek\documents\visual studio 2015\Projects\GraPamieciowa\GraPamieciowa\obj\Debug\GraPamieciowa.Form1.resources
+c:\users\maciek\documents\visual studio 2015\Projects\GraPamieciowa\GraPamieciowa\obj\Debug\GraPamieciowa.Properties.Resources.resources
+c:\users\maciek\documents\visual studio 2015\Projects\GraPamieciowa\GraPamieciowa\obj\Debug\GraPamieciowa.csproj.GenerateResource.Cache
+c:\users\maciek\documents\visual studio 2015\Projects\GraPamieciowa\GraPamieciowa\obj\Debug\GraPamieciowa.exe
+c:\users\maciek\documents\visual studio 2015\Projects\GraPamieciowa\GraPamieciowa\obj\Debug\GraPamieciowa.pdb
